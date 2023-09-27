@@ -1,5 +1,5 @@
 # 💫 About Me:
-😇 I'm a passionate AI developer.<br>💬 Ask me about any issue related to AI domain.<br>⚡ Fun fact : "Most AI Bots are Female"
+😇 I'm a passionate AI developer.<br>⚡ Fun fact : "Most AI Bots are Female"
 
 
 ## 🌐 Socials:
